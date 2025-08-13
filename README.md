@@ -68,4 +68,4 @@ If you'd like to improve this model or add features, feel free to:
 ## 📧 Contact
 **Your Name** – *Navya Mahindru*  
 📩 Email: 341089@fsm.ac.in  
-🔗 LinkedIn: [Your Profile](https://www.linkedin.com/in/navyamahindru/)  
+🔗 LinkedIn: [Navya Mahindru](https://www.linkedin.com/in/navyamahindru/)  
