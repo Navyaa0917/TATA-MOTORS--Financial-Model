@@ -66,6 +66,6 @@ If you'd like to improve this model or add features, feel free to:
 ---
 
 ## 📧 Contact
-**Your Name** – *Financial Analyst / MBA Student / Consultant*  
-📩 Email: your.email@example.com  
-🔗 LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)  
+**Your Name** – *Navya Mahindru*  
+📩 Email: 341089@fsm.ac.in  
+🔗 LinkedIn: [Your Profile](https://www.linkedin.com/in/navyamahindru/)  
