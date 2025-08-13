@@ -9,10 +9,10 @@ It includes detailed projections, revenue analysis, cost structure breakdowns, a
 - **TATA Motors – Financial Model.xlsx**  
   A fully linked and dynamic Excel model with:
   - **Historical Financial Data** (P&L, Balance Sheet, Cash Flow)
-  - **Assumptions & Drivers** (market growth, pricing, cost trends)
+  - **Ratio Analysis** (market growth, pricing, cost trends)
   - **Revenue Projections** by segment
   - **Cost Structure & Margin Analysis**
-  - **Valuation** using Discounted Cash Flow (DCF) & Multiples
+
 
 ---
 
@@ -40,20 +40,9 @@ It includes detailed projections, revenue analysis, cost structure breakdowns, a
 
 ## 🚀 How to Use
 1. **Download** the Excel file from this repository.  
-2. **Open** in Excel (desktop version recommended).  
-3. Navigate to the **Assumptions** tab and adjust variables.  
-4. Review **Outputs** in the P&L, Balance Sheet, Cash Flow, and Valuation tabs.
+2. **Open** in Excel (desktop version recommended).
+3. Review **Outputs** in the P&L, Balance Sheet, Cash Flow, and Valuation tabs.
 
----
-
-## 🖼️ Preview
-> *(You can add a screenshot of your Excel model here)*  
-![Financial Model Preview](preview-image.png)
-
----
-
-## 📜 License
-This project is licensed under the MIT License – you are free to use, modify, and share it with attribution.
 
 ---
 
